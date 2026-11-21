@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="991" height="558" viewBox="0 0 991 558" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="16px">
+<style>text{white-space:pre}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s step-end infinite}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes type0{0%{width:0}0.000%{width:0;animation-timing-function:steps(26,end)}12.222%{width:249.6px}27.778%{width:249.6px;animation-timing-function:steps(26,end)}31.111%{width:0}100%{width:0}}.t0{animation:type0 18s infinite}@keyframes type1{0%{width:0}33.333%{width:0;animation-timing-function:steps(25,end)}45.556%{width:240.0px}61.111%{width:240.0px;animation-timing-function:steps(25,end)}64.444%{width:0}100%{width:0}}.t1{animation:type1 18s infinite}@keyframes type2{0%{width:0}66.667%{width:0;animation-timing-function:steps(48,end)}78.889%{width:460.8px}94.444%{width:460.8px;animation-timing-function:steps(48,end)}97.778%{width:0}100%{width:0}}.t2{animation:type2 18s infinite}@keyframes curmove{0.000%{transform:translateX(0);animation-timing-function:steps(26,end)}12.222%{transform:translateX(249.6px)}27.778%{transform:translateX(249.6px);animation-timing-function:steps(26,end)}31.111%{transform:translateX(0)}33.333%{transform:translateX(0);animation-timing-function:steps(25,end)}45.556%{transform:translateX(240.0px)}61.111%{transform:translateX(240.0px);animation-timing-function:steps(25,end)}64.444%{transform:translateX(0)}66.667%{transform:translateX(0);animation-timing-function:steps(48,end)}78.889%{transform:translateX(460.8px)}94.444%{transform:translateX(460.8px);animation-timing-function:steps(48,end)}97.778%{transform:translateX(0)}100%{transform:translateX(0)}}.curmove{animation:curmove 18s infinite}.r0{animation:rise .35s ease-out 0.150s both}.r1{animation:rise .35s ease-out 0.195s both}.r2{animation:rise .35s ease-out 0.240s both}.r3{animation:rise .35s ease-out 0.285s both}.r4{animation:rise .35s ease-out 0.330s both}.r5{animation:rise .35s ease-out 0.375s both}.r6{animation:rise .35s ease-out 0.420s both}.r7{animation:rise .35s ease-out 0.465s both}.r8{animation:rise .35s ease-out 0.510s both}.r9{animation:rise .35s ease-out 0.555s both}.r10{animation:rise .35s ease-out 0.600s both}.r11{animation:rise .35s ease-out 0.645s both}.r12{animation:rise .35s ease-out 0.690s both}.r13{animation:rise .35s ease-out 0.735s both}.r14{animation:rise .35s ease-out 0.780s both}.r15{animation:rise .35s ease-out 0.825s both}.r16{animation:rise .35s ease-out 0.870s both}.r17{animation:rise .35s ease-out 0.915s both}.r18{animation:rise .35s ease-out 0.960s both}.r19{animation:rise .35s ease-out 1.005s both}.r20{animation:rise .35s ease-out 1.050s both}.r21{animation:rise .35s ease-out 1.095s both}</style>
+<rect x="0.5" y="0.5" width="990" height="557" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M0.5 30 V12.5 a12 12 0 0 1 12 -12 H978.5 a12 12 0 0 1 12 12 V30 Z" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="20" cy="15.5" r="6" fill="#ff5f57"/>
+<circle cx="40" cy="15.5" r="6" fill="#febc2e"/>
+<circle cx="60" cy="15.5" r="6" fill="#28c840"/>
+<text x="495.5" y="20" text-anchor="middle" font-size="13px" fill="#57606a">aadi@atlanta: ~ — neofetch</text>
+<text x="20" y="64" fill="#57606a" xml:space="preserve"></text>
+<text x="20" y="84" fill="#57606a" xml:space="preserve">            &#x27;![tuXUUYznt{~;.</text>
+<text x="20" y="104" fill="#57606a" xml:space="preserve">         ^[XpoMWM#oahbdqm0Un1i&#x27;</text>
+<text x="20" y="124" fill="#57606a" xml:space="preserve">       :rdW8WMM##*oahbpwZ0LJYv/~`</text>
+<text x="20" y="144" fill="#57606a" xml:space="preserve">      |k&amp;WMWW&amp;WWM#*oahbpwZQCYcnj{l</text>
+<text x="20" y="164" fill="#57606a" xml:space="preserve">    ^UWMMWWWWWWWM#*ohkdpwZ0CUcnf|{&gt;.</text>
+<text x="20" y="184" fill="#57606a" xml:space="preserve">   ^Q#oMW&amp;@@@%WMM#oo#ohbmZQCUYcxt1?!.</text>
+<text x="20" y="204" fill="#57606a" xml:space="preserve">   coh*#W*JJU0&amp;#*oowcvuzw0LJX){[?{?&lt;;</text>
+<text x="20" y="224" fill="#57606a" xml:space="preserve">  +bbaoo8{    OMah*u    nZUC-    ]?&gt;!^</text>
+<text x="20" y="244" fill="#57606a" xml:space="preserve">  xddkhMY  _: Ihhbau .&quot; ^zQ( &#x27;&#x27; .?_il;</text>
+<text x="20" y="264" fill="#57606a" xml:space="preserve">  cwqdkp&quot; &quot;ou  )awbx  ]} lr&#x27; ], ._~lll</text>
+<text x="20" y="284" fill="#57606a" xml:space="preserve">  u0Zmk-  (ZL;  Xqwj  _L; . &lt;f` .&lt;illI</text>
+<text x="20" y="304" fill="#57606a" xml:space="preserve">  |CCwx   &#x27;  .  :QZt  ~Uj^.;/1` .llllI</text>
+<text x="20" y="324" fill="#57606a" xml:space="preserve">  !zYz&#x27; .nXzzY?  +Q)  &gt;vr/))1]&#x27;  Ill!&quot;</text>
+<text x="20" y="344" fill="#57606a" xml:space="preserve">   }cj(|rLCCCCY||(cr{})f|(1[?+I::ll!I</text>
+<text x="20" y="364" fill="#57606a" xml:space="preserve">   &#x27;}xuccuvvvuvcvvrrrf/){[-+&lt;!!!!l!l.</text>
+<text x="20" y="384" fill="#57606a" xml:space="preserve">    ._(|tffjjfft/||)1}[]-~&gt;!lllll!I.</text>
+<text x="20" y="404" fill="#57606a" xml:space="preserve">      ;-}{111111{}[]-_~&gt;illllll!l,</text>
+<text x="20" y="424" fill="#57606a" xml:space="preserve">       .:&gt;~+__+++~&lt;&gt;i!llllll!!l,&#x27;</text>
+<text x="20" y="444" fill="#57606a" xml:space="preserve">          ^:I!!!!lllll!!!!!l;^.</text>
+<text x="20" y="464" fill="#57606a" xml:space="preserve">             &#x27;^,:;IIII;:,^&#x27;.</text>
+<text x="20" y="484" fill="#57606a" xml:space="preserve"></text>
+<text class="r0" x="405" y="64" xml:space="preserve"><tspan fill="#1f2328"></tspan><tspan fill="#1a7f37" font-weight="700">aadi@atlanta</tspan><tspan fill="#d0d7de"> ─────────────────────────────────────────────</tspan></text>
+<text class="r1" x="405" y="84" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">OS</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ................ </tspan><tspan fill="#0a3069">Georgia Tech, B.S. Computer Science</tspan></text>
+<text class="r2" x="405" y="104" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Host</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ...................... </tspan><tspan fill="#0a3069">Presence, founding engineer</tspan></text>
+<text class="r3" x="405" y="124" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Kernel</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ................................ </tspan><tspan fill="#0a3069">AI/ML + Systems</tspan></text>
+<text class="r4" x="405" y="144" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Shell</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ............................ </tspan><tspan fill="#0a3069">Claude Code + Cursor</tspan></text>
+<text class="r5" x="405" y="164" xml:space="preserve"><tspan fill="#d0d7de">.</tspan></text>
+<text class="r6" x="405" y="184" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Languages</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ................. </tspan><tspan fill="#0a3069">TypeScript, Python, Go, SQL</tspan></text>
+<text class="r7" x="405" y="204" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Stack.Product</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ...... </tspan><tspan fill="#0a3069">React, Supabase, Convex, Capacitor</tspan></text>
+<text class="r8" x="405" y="224" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Stack.ML</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ............ </tspan><tspan fill="#0a3069">TensorFlow, YOLO, LLM fine-tuning</tspan></text>
+<text class="r9" x="405" y="244" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Stack.Data</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ............ </tspan><tspan fill="#0a3069">Azure, AKS, Snowflake, Power BI</tspan></text>
+<text class="r10" x="405" y="264" xml:space="preserve"><tspan fill="#d0d7de">.</tspan></text>
+<text class="r11" x="405" y="284" xml:space="preserve"><tspan fill="#1f2328">- </tspan><tspan fill="#1f2328" font-weight="700">Now</tspan><tspan fill="#d0d7de"> ────────────────────────────────────────────────────</tspan></text>
+<text class="r12" x="405" y="304" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Building</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ......... </tspan><tspan fill="#0a3069">Drift, the agent for cluttered minds</tspan></text>
+<text class="r13" x="405" y="324" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Shipping</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ............. </tspan><tspan fill="#0a3069">ApplyTwin, job apps on autopilot</tspan></text>
+<text class="r14" x="405" y="344" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">From.Scratch</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> .... </tspan><tspan fill="#0a3069">gokv, a Redis-compatible server in Go</tspan></text>
+<text class="r15" x="405" y="364" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Leading</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ................ </tspan><tspan fill="#0a3069">HackAlphaX, Executive Director</tspan></text>
+<text class="r16" x="405" y="384" xml:space="preserve"><tspan fill="#d0d7de">.</tspan></text>
+<text class="r17" x="405" y="404" xml:space="preserve"><tspan fill="#1f2328">- </tspan><tspan fill="#1f2328" font-weight="700">Before</tspan><tspan fill="#d0d7de"> ─────────────────────────────────────────────────</tspan></text>
+<text class="r18" x="405" y="424" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Research</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> ............... </tspan><tspan fill="#0a3069">Rutgers WINLAB, 5G + satellite</tspan></text>
+<text class="r19" x="405" y="444" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Data</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> .................. </tspan><tspan fill="#0a3069">Regeneron, analytics apprentice</tspan></text>
+<text class="r20" x="405" y="464" xml:space="preserve"><tspan fill="#d0d7de">.</tspan></text>
+<text class="r21" x="405" y="484" xml:space="preserve"><tspan fill="#d0d7de">. </tspan><tspan fill="#953800">Off.Screen</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#d0d7de"> .... </tspan><tspan fill="#0a3069">lifting, CAD + 3D printing, hoops stats</tspan></text>
+<line x1="20" x2="971" y1="496" y2="496" stroke="#d0d7de"/>
+<text x="20" y="524" xml:space="preserve"><tspan fill="#1a7f37" font-weight="700">aadi@atlanta</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#0550ae" font-weight="700">~</tspan><tspan fill="#1f2328">$ </tspan></text>
+<defs>
+<clipPath id="c0"><rect class="t0" x="173.6" y="506" width="0" height="26"/></clipPath>
+<clipPath id="c1"><rect class="t1" x="173.6" y="506" width="0" height="26"/></clipPath>
+<clipPath id="c2"><rect class="t2" x="173.6" y="506" width="0" height="26"/></clipPath>
+</defs>
+<text clip-path="url(#c0)" x="173.6" y="524" fill="#1f2328" textLength="249.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">./drift --open usedrift.us</text>
+<text clip-path="url(#c1)" x="173.6" y="524" fill="#1f2328" textLength="240.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">go test ./gokv/...   # ok</text>
+<text clip-path="url(#c2)" x="173.6" y="524" fill="#1f2328" textLength="460.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">echo $STATUS   # open to summer &#x27;27 SWE/ML roles</text>
+<g class="curmove"><rect class="cur" x="174.6" y="510" width="8.6" height="18" fill="#1a7f37"/></g>
+</svg>
